@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prajita Adhikari</h1>
-<h3 align="center">A passionate learner from Nepal. Interested in Designing and Programming.</h3>
+<h3 align="center">A passionate learner from Nepal. Interested in Designing and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prajita99&label=Profile%20views&color=0e75b6&style=flat" alt="Prajita99" /> </p>
 
 
-- 🌱 I’m currently learning **Graphic Designing**
+- 🌱 I’m currently learning **C++ as well as web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prajita99](https://github.com/Prajita99)
 - 📫 How to reach me **prajitaadhikari@itsnp.org**
