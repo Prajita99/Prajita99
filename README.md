@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **C++ as well as web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prajita99](https://github.com/Prajita99)
-- 📫 How to reach me **prajitaadhikari@itsnp.org**
+- 📫 How to reach me **prajitaadhikari2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
