@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajita Adhikari</h1>
-<h3 align="center">A passionate learner from Nepal. Interested in Designing and Web Development.</h3>
+<h3 align="center">A passionate learner from Nepal. Interested in App Development,Designing and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prajita99&label=Profile%20views&color=0e75b6&style=flat" alt="Prajita99" /> </p>
 
